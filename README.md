@@ -40,7 +40,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/personal-profile-webpage.git
+git clone https://github.com/KavyaVytla/personal-profile-webpage.git
 Navigate to the project directory
 
 bash
